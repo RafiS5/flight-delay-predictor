@@ -1,0 +1,132 @@
+{
+  "presets": {
+    "Clear / Sunny": {
+      "label": "Clear / Sunny",
+      "n": 130412,
+      "weather_code": 0,
+      "temp": 16.0,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 6.1,
+      "wind_gusts": 12.8,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    },
+    "Cloudy": {
+      "label": "Cloudy",
+      "n": 118868,
+      "weather_code": 3,
+      "temp": 14.0,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 6.5,
+      "wind_gusts": 13.6,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    },
+    "Light rain": {
+      "label": "Light rain",
+      "n": 23309,
+      "weather_code": 51,
+      "temp": 19.4,
+      "precip": 0.1,
+      "snowfall": 0.0,
+      "wind_speed": 7.6,
+      "wind_gusts": 16.8,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 1,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 1
+    },
+    "Heavy rain": {
+      "label": "Heavy rain",
+      "n": 27391,
+      "weather_code": 53,
+      "temp": 15.4,
+      "precip": 0.8,
+      "snowfall": 0.0,
+      "wind_speed": 8.3,
+      "wind_gusts": 18.3,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 1,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 1
+    },
+    "Snow": {
+      "label": "Snow",
+      "n": 4268,
+      "weather_code": 71,
+      "temp": -0.9,
+      "precip": 0.2,
+      "snowfall": 0.14,
+      "wind_speed": 8.6,
+      "wind_gusts": 17.7,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 1,
+      "IS_SNOWING": 1,
+      "IS_ADVERSE_WEATHER": 1
+    }
+  },
+  "seasonal_auto": {
+    "0": {
+      "label": "Auto-season-0",
+      "n": 63164,
+      "weather_code": 0,
+      "temp": 19.1,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 6.3,
+      "wind_gusts": 13.2,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    },
+    "1": {
+      "label": "Auto-season-1",
+      "n": 100282,
+      "weather_code": 3,
+      "temp": 8.5,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 7.2,
+      "wind_gusts": 14.8,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    },
+    "2": {
+      "label": "Auto-season-2",
+      "n": 52285,
+      "weather_code": 3,
+      "temp": 11.1,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 6.7,
+      "wind_gusts": 13.9,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    },
+    "3": {
+      "label": "Auto-season-3",
+      "n": 84269,
+      "weather_code": 0,
+      "temp": 22.3,
+      "precip": 0.0,
+      "snowfall": 0.0,
+      "wind_speed": 6.0,
+      "wind_gusts": 13.4,
+      "IS_FREEZING": 0,
+      "IS_RAINING": 0,
+      "IS_SNOWING": 0,
+      "IS_ADVERSE_WEATHER": 0
+    }
+  }
+}

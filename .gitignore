@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytorch-tabular training artefacts
+.pt_tmp/
+saved_models/
+lightning_logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Trained models — hosted externally (see README), too large for GitHub
+Models/
+Models.zip
+*.zip
+
+# Raw BTS source parquets — too large; download from public BTS / Kaggle (see README)
+Data/Combined_Flights_*.parquet
+
+# Cached weather data — regenerable via Notebook 1 from the Open-Meteo API
+Data/weather_cache/
