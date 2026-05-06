@@ -42,8 +42,8 @@ The following are excluded for size reasons. Setup instructions below explain ho
 
 ```bash
 # 1. Clone the repo and enter it
-git clone https://github.com/<your-username>/flight-delay-predictor-6.git
-cd flight-delay-predictor-6
+git clone https://github.com/RafiS5/flight-delay-predictor.git
+cd flight-delay-predictor
 
 # 2. Create and activate a virtual environment
 python -m venv venv
